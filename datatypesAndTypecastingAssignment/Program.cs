@@ -16,7 +16,7 @@ namespace datatypesAndTypecastingAssignment
             Saturday = 6,
             Sunday = 7
         }
-        public static int Monday { get; private set; }
+        
 
         static void PrintSeparator()
         {
